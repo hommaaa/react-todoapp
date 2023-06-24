@@ -1,2 +1,3 @@
-# react-todoapp
+# react-todo
+
 Created with CodeSandbox
